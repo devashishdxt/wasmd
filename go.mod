@@ -129,7 +129,7 @@ replace (
 
 	github.com/cosmos/ibc-go/v3 => github.com/cosmos/ibc-go/v3 v3.0.0-alpha1.0.20220510152759-dcd0681d8f07
 
-	github.com/cosmos/interchain-accounts => github.com/devashishdxt/interchain-accounts-demo v0.1.1-0.20220705075641-407559670229
+	github.com/cosmos/interchain-accounts => github.com/crypto-org-chain/interchain-accounts-demo v0.1.1-0.20220705075641-407559670229
 	// Fix upstream GHSA-h395-qcrw-5vmq vulnerability.
 	// TODO Remove it: https://github.com/cosmos/cosmos-sdk/issues/10409
 	github.com/gin-gonic/gin => github.com/gin-gonic/gin v1.7.0
